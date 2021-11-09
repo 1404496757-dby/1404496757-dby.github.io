@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>DEMO_01</title>
+      <link href="/2021/10/31/DEMO-01/"/>
+      <url>/2021/10/31/DEMO-01/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://i.loli.net/2021/11/03/LBOk91xtcFoiMw8.jpg" alt="8208208820.jpg"><br>相信不少正在阅读这篇文章的读者应该都用过或者说正在使用新版 Microsoft Edge 浏览器 —— 从某种程度上来说，采用 Chromium 内核所带来的扩展兼容性盘活了 Edge。所以无论你是高举「新版 Edge 好」大旗的用户还是依然被跨平台同步体验捆绑着的 Chrome 用户，既然大家都在扩展生态占优的 Chromium 阵营里，不妨一起再来补充一下「插件能量」。我们又为大家搜罗了几款实用好玩的浏览器扩展插件，不管是标签页管理、效率提升还是网页浏览，应该都能为你的浏览器使用体验加分。一起来看一看！<br>Blink：眨眼之间，掌控标签浏览器标签开多了，眼睛也会疲乏，所以现在出现了许许多多不同功能的标签管理工具，比如将标签页归纳成列表、展示成缩略图、一键开关等等。不过通常来说，一堆标签中总有属于同一种「类别」的，例如上班时打开的 OA 和邮箱、摸鱼时候打开的视频和微博、写作过程查阅的文献等等。Blink 这款扩展插件就考虑到这种需求，通过「工作板」区分不同用途的标签。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>DEMO</title>
+      <link href="/2021/10/29/DEMO/"/>
+      <url>/2021/10/29/DEMO/</url>
+      
+        <content type="html"><![CDATA[<ol><li>设置站点配置文件_config.yml中 post_asset_folder:true。</li></ol><p>Hexo 提供了一种更方便管理 Asset 的设定：post_asset_folder当您设置post_asset_folder为true参数后，在建立文件时，Hexo会自动建立一个与文章同名的文件夹，您可以把与该文章相关的所有资源都放到那个文件夹。<br>wdnmd<br><img src="/.com//001.jpg" alt="001"></p><img src="/.com//img/001.jpg">2. 安装插件<pre><code>npm install https://github.com/CodeFalling/hexo-asset-image --save</code></pre><ol start="3"><li><p>完成安装后用hexo新建文章的时候会发现_posts目录下面会多出一个和文章名字一样的文件夹。图片就可以放在文件夹下面。</p></li><li><p>引入图片（主要）: 网上大多说的是用  <img src>的方法， 亲测， 插入图片失败， 将其改为 </p></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2021/10/28/hello-world/"/>
+      <url>/2021/10/28/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 起始 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
